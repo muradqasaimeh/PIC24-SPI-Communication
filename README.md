@@ -1,4 +1,3 @@
-# PIC24 to PIC24 SPI communication
+# PIC24 to PIC24 SPI Communication
 
-
-explorer 16 development board
+This project demonstrates SPI communication between two explorer 16 development board.
