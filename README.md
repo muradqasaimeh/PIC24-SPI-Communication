@@ -1,4 +1,4 @@
-# PIC24 to PIC24 Serial Peripheral Interface (SPI) communication
+# PIC24 to PIC24 SPI communication
 
 
 explorer 16 development board
